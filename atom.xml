@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>fzzfgbw</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2020-06-01T16:22:22.581Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>fzzf-gbw</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>六一快乐</title>
+    <link href="/2020/06/01/hello-world/"/>
+    <id>/2020/06/01/hello-world/</id>
+    <published>2020-06-01T15:51:22.908Z</published>
+    <updated>2020-06-01T16:22:22.581Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
